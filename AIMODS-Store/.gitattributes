@@ -1,4 +1,4 @@
 *.manifest filter=lfs diff=lfs merge=lfs -text
 *.application binary
 *.deploy filter=lfs diff=lfs merge=lfs -text
-*  -text
+* -text
