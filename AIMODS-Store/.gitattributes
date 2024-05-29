@@ -2,6 +2,3 @@
 *.application binary
 *.deploy binary
 *  -text
-*.psd filter=lfs diff=lfs merge=lfs -text
-*.deploy filter=lfs diff=lfs merge=lfs -text
-*.manifest filter=lfs diff=lfs merge=lfs -text
